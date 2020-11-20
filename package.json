@@ -1,0 +1,7 @@
+{
+  "name": "mig-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Frederik Eichler <mail@frederik-eichler.de>",
+  "license": "MIT"
+}
